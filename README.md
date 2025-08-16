@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @modzbosss02
-- 👀 I’m interested in ...hh
-- 🌱 I’m currently learning ...cs,python,ai,and html
+- 👀 I’m interested in ... building advanced applications and programs 
+- 🌱 I’m currently learning ... web app development, native app development, & new programming languages
 - 💞️ I’m looking to collaborate on ...unique and advancement projects
-- 📫 How to reach me ...
+- 📫 How to reach me ... (discord) @surfingatthebeach_54072
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
